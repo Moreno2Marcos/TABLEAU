@@ -6,6 +6,6 @@ Será concebida e implementada uma solução baseada em Dashboard usando o Power
 
 Em relação à tomada de decisão / impacto o Dashboard irá mapear indicadores consistentes e rastreáveis, com regras de tratamento documentadas, para apoiar o Gerente de Trade Marketing na priorização de regiões, redes, categorias e PDVs com maior diferença de preço frente à concorrência, e apoiar o Promotor de Trade na identificação de produtos e lojas que demandam correção de preço, verificação de promoção e revisão de coleta, reduzindo divergências de leitura decorrentes de dados incompletos ou não validados.
 
-**3. LINK DO DASHBOARD**
+**2. LINK DO DASHBOARD**
 
 https://public.tableau.com/app/profile/iv.n.moreno/viz/TesteTecnico_Involves_IvanMoreno/VisoGerncial
